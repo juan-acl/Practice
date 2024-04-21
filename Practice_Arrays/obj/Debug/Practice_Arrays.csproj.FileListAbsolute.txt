@@ -1,0 +1,7 @@
+D:\Escritorio\C#\Practice_Arrays\Practice_Arrays\obj\Debug\Practice_Arrays.csproj.AssemblyReference.cache
+D:\Escritorio\C#\Practice_Arrays\Practice_Arrays\obj\Debug\Practice_Arrays.csproj.CoreCompileInputs.cache
+D:\Escritorio\C#\Practice_Arrays\Practice_Arrays\bin\Debug\Practice_Arrays.exe.config
+D:\Escritorio\C#\Practice_Arrays\Practice_Arrays\bin\Debug\Practice_Arrays.exe
+D:\Escritorio\C#\Practice_Arrays\Practice_Arrays\bin\Debug\Practice_Arrays.pdb
+D:\Escritorio\C#\Practice_Arrays\Practice_Arrays\obj\Debug\Practice_Arrays.exe
+D:\Escritorio\C#\Practice_Arrays\Practice_Arrays\obj\Debug\Practice_Arrays.pdb
